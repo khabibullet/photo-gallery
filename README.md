@@ -17,3 +17,5 @@ Asyncronous images downloading.
 Loading indicator.
 
 Alert if downloading failed.
+
+Custom CollectionViewCell .
