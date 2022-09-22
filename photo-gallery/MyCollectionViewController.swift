@@ -7,7 +7,7 @@
 
 import UIKit
 
-let imageUrls: [String] = ["https://wallpapers.com/images/file/starry-night-and-celestial-bodies-hoztgf3afa0blfvc.jpg",
+let imageUrls: [String] = ["https://wallpapers.com/images/file/starry-night-and-celestial-bodies-hoztgf3afa0blfvc.jg",
 						  "https://wallpapers.com/images/file/purple-and-pink-galaxy-hdg0eaitkhrstbyu.jpg",
 						  "https://wallpapers.com/images/file/4k-andromeda-galaxy-68af0gq8brnv6qkk.jpg",
 						  "https://wallpapers.com/images/file/milky-way-galaxy-hgmbmxbzl589p8q4.jpg"]
